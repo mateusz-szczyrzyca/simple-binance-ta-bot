@@ -1,6 +1,6 @@
 ## What's this
 
-***This is fully private project and it's not completed yet - do not use it for trading ***.
+### This is fully private project and it's not completed yet - do not use it for trading!
 
 This is a very simple binance trading bot which uses pandas-ta set of technical indicators from 
 pandas-ta lib.
